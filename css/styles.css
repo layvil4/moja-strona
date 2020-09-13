@@ -1,8 +1,9 @@
 body {
   background-color: #f2f7ff;
   font-family: 'Abhaya Libre', sans-serif;
-  
+
 }
+
 
 h1 {
 color: #0b409c;
@@ -13,7 +14,7 @@ font-weight: 500;
 }
 hr {
   border-style: dotted none none none;
-  border-top-width: 6px;
+  border-top-width: 5px;
   border-color: #0b409c;
-  width: 33%;
+  width: 10%;
 }
