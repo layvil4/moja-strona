@@ -19,6 +19,7 @@ hr {
   border-top-width: 5px;
   border-color: #0b409c;
   width: 10%;
+
 }
 
 h1:hover {
@@ -31,8 +32,24 @@ background-color: gold;
 background-color: pink;
 }
 
+.top{
+padding-right: 45px;
+  height: 20vh;
+  display: flex;
+  justify-content:flex-end;
+  align-items: center;
+
+}
+.top-link {
+width: 80px;
+display: inline-block;
+text-align: center;
+position: relative;
+float: right;
+
+}
 .top-container {
-height: 100vh;
+height: 80vh;
 width: 100%;
 margin: 0;
 }
@@ -42,8 +59,9 @@ margin: 0;
   justify-content: center;
   align-items: center;
 }
+
 .middle-container {
-background-color: grey;
+background-color: white;
 height: 200px;
 width: 100%;
 margin: 0;
